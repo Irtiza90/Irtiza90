@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza90)](https://github.com/irtiza90/github-readme-stats)
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=irtiza90&show_icons=true&theme=dark"
@@ -26,5 +28,3 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=irtiza90&show_icons=true" />
 </picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irtiza90)](https://github.com/irtiza90/github-readme-stats)
