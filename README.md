@@ -61,7 +61,7 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 <p align="left">
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="60" height="40" title="Laravel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="60" height="40" title="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python" />
 </p>
@@ -69,8 +69,8 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 <h4 align="left">Databases</h4>
 <p align="left">
   <!-- Databases -->
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" title="MariaDB" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" title="MariaDB" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite" />
 </p>
 
