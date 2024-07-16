@@ -70,16 +70,16 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 <p align="left">
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL" />
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" title="MariaDB" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40" title="MariaDB" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" title="SQLite" />
 </p>
 
 <h4 align="left">DevTools</h4>
 <p align="left">
   <!-- Dev Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git" />
   <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" title="Github" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" title="Bash" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" title="Bash" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux" />
 </p>
@@ -90,9 +90,14 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" title="Arduino" />
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" title="Chart.js" />
 </p>
+<br>
+<h2>Github Stats</h2>
 
 <!-- TOP Languages -->
-<p> <img align="left" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact" alt="irtiza90" media="(prefers-color-scheme: dark)" />
+<p>
+<img align="left" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html,css&theme=dark" alt="irtiza90" media="(prefers-color-scheme: dark)" />
+<img align="center" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api?username=irtiza90&show_icons=true&hide=stars&locale=en&theme=dark" alt="irtiza90" />
 </p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api?username=irtiza90&show_icons=true&locale=en" alt="irtiza90" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza90&" alt="irtiza90" /></p>
+
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza90&theme=dark" alt="irtiza90" /></p>
