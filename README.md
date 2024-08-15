@@ -22,9 +22,9 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 
 - 🌟 I want to learn **C# & Rust**
 
-- 👨‍💻 Personal Site [irtiza90.github.io](https://irtiza90.github.io/Irtiza90)
+- 👨‍💻 Personal Site [irtiza90.github.io](https://irtiza90.github.io/)
 
-- 📄 Resume [Irtiza-Babar.pdf](https://irtiza90.github.io/Irtiza90/CV-Irtiza-Babar.pdf)
+- 📄 Resume [Irtiza-Babar.pdf](https://irtiza90.github.io/CV-Irtiza-Babar.pdf)
 
 <h3 align="left">❔ Did you Know</h3>
 <p align="left">
