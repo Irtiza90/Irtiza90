@@ -71,15 +71,19 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 </p>
 
 <br>
-<h2>Github Stats</h2>
+<h2 align="center">Github Stats</h2>
 
 <!-- TOP Languages -->
-<p>
-<img align="left" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html,css&theme=dark" alt="irtiza90" media="(prefers-color-scheme: dark)" />
-<img align="center" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api?username=irtiza90&show_icons=true&hide=stars&locale=en&theme=dark" alt="irtiza90" />
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza90&theme=dark" alt="irtiza90" /></p>
+<br>
+<p align="center">
+<img height="100%" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html,css&theme=dark" alt="irtiza90" media="(prefers-color-scheme: dark)" />
+<img src="https://github-readme-stats-irtiza90s-projects.vercel.app/api?username=irtiza90&show_icons=true&hide=stars&locale=en&theme=dark" alt="irtiza90" />
 </p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza90&theme=dark" alt="irtiza90" /></p>
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=irtiza90&column=5&row=1&margin-w=15&margin-h=15&theme=gruvbox">
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=irtiza90&column=5&row=1&margin-w=15&margin-h=15&theme=gruvbox">
+</p>
