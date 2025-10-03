@@ -19,12 +19,10 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 <h3 align="center">Full-stack Developer</h3>
 
 - 👨‍💻 Personal Site [irtiza90.github.io](https://irtiza90.github.io/)
-
-- 📄 Resume [Irtiza-Babar.pdf](https://irtiza90.github.io/CV-Irtiza-Babar.pdf)
   
 - 🌟 Want to learn **C# & Rust**
 
-- 🌱 Currently learning **React & TailwindCSS**
+- 🌱 Currently learning **Vue & Astro**
 
 <br>
 <h2 align="left">Languages and Tools</h2>
@@ -57,7 +55,7 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 
 <h3 align="left">Connect with me</h3>
 
-<strong>irtizababar@outlook.com</strong>
+<strong>irtizababar90@gmail.com</strong>
 
 <p align="left">
 <a href="https://linkedin.com/in/irtiza-babar-a3428b22a" target="blank">
