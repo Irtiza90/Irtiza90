@@ -77,8 +77,9 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza90&theme=dark" alt="irtiza90" /></p>
 <br>
+
 <p align="center">
-<img height="100%" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html,css&theme=dark" alt="irtiza90" media="(prefers-color-scheme: dark)" />
+<img height="100%" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,css,blade,less,scss&theme=dark" alt="irtiza90" media="(prefers-color-scheme: dark)" />
 <img src="https://github-readme-stats-irtiza90s-projects.vercel.app/api?username=irtiza90&show_icons=true&hide=stars&locale=en&theme=dark" alt="irtiza90" />
 </p>
 
