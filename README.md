@@ -76,7 +76,7 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 <!-- TOP Languages -->
 
 <p align="center">
-  <img height="100%" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,css,blade,less,scss&theme=dark" alt="irtiza90" media="(prefers-color-scheme: dark)" />
+  <img height="100%" src="https://github-readme-stats-irtiza90s-projects.vercel.app/api/top-langs?username=irtiza90&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,css,blade,less,scss&exclude_repo=cms-bk,content-management-system,needlework,RetailHeist&theme=dark" alt="irtiza90" media="(prefers-color-scheme: dark)" />
 </p>
 <br>
 
