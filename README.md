@@ -88,7 +88,7 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza90&theme=dark" alt="irtiza90" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=irtiza90&theme=dark" alt="irtiza90" />
 </p>
 <br>
 
