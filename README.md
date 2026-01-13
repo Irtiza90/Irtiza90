@@ -25,34 +25,6 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 - 🌱 Currently learning **Vue & Astro**
 
 <br>
-<h2 align="left">Languages and Tools</h2>
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" title="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="60" height="40" title="Laravel" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js" />
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40" title="MariaDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" title="SQLite" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" title="Github" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" title="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" alt="postman" width="40" height="40" title="Postman" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40" title="Arduino" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original-wordmark.svg" alt="chartjs" width="40" height="40" title="Chart.js" />
-
-</p>
 
 <h3 align="left">Connect with me</h3>
 
@@ -85,7 +57,7 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 <img src="https://github-readme-stats-irtiza90s-projects.vercel.app/api?username=irtiza90&show_icons=true&hide=stars&locale=en&theme=dark" alt="irtiza90" />
 </p>
 
-
+<!--
 <br>
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=Irtiza90&theme=dark" alt="irtiza90" />
@@ -95,4 +67,4 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=irtiza90&column=5&row=1&margin-w=15&margin-h=15&theme=gruvbox">
 </p>
-
+-->
