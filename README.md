@@ -22,13 +22,11 @@ Github Stats vercel Link: https://github-readme-stats-irtiza90s-projects.vercel.
   
 - 🌟 Want to learn **C# & Rust**
 
-- 🌱 Currently learning **Vue & Astro**
+- 🌱 Currently learning **Golang & Svelte+Astro**
 
 <br>
 
 <h3 align="left">Connect with me</h3>
-
-<strong>irtizababar90@gmail.com</strong>
 
 <p align="left">
 <a href="https://linkedin.com/in/irtiza-babar-a3428b22a" target="blank">
